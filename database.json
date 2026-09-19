@@ -1,0 +1,35 @@
+[
+  {
+    "username": "REZAAJA",
+    "password": "LESTI",
+    "role": "owner",
+    "expiredDate": "2299-09-07",
+    "lastSend": 1763883279370
+  },
+  {
+    "username": "Tama",
+    "password": "13",
+    "role": "owner",
+    "expiredDate": "2299-09-07",
+    "lastSend": 1763877754372
+  },
+  {
+    "username": "Fanzz",
+    "password": "123",
+    "role": "owner",
+    "expiredDate": "+029404-12-18",
+    "lastSend": 1763906210580
+  },
+  {
+    "username": "deka",
+    "password": "123",
+    "role": "owner",
+    "expiredDate": "2299-09-07"
+  },
+  {
+    "username": "yon",
+    "password": "yon12",
+    "role": "member",
+    "expiredDate": "2025-11-24"
+  }
+]
